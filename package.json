@@ -1,6 +1,6 @@
 {
   "name": "flag-picker",
-  "author":"Avinash",
+  "author": "Avinash",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,5 +13,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "enzyme": "^3.3.0"
   }
 }

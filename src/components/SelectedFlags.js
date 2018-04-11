@@ -8,7 +8,6 @@ import './SelectedFlags.css';
 
 const SelectedFlags = (props)=>{
     const flagData = props.flags;
-    console.log("shakkar me lakkar",props.flags);
         return (
             <section className="selected-flags">
                 <h4>{props.message}</h4>
