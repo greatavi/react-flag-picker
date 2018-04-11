@@ -1,0 +1,20 @@
+.flex-container{
+    display:flex;
+    flex-wrap: nowrap;
+}
+.flex-container section{
+    background-color: #f1f1f1;
+    width: 100%;
+    margin: 10px;
+    text-align: center;
+    font-size: 25px;
+}
+body{
+    color:#0085b6;
+}
+.hide-clear-btn{
+    display:none;
+}
+.show-clear-btn{
+
+}
